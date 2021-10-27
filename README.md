@@ -24,4 +24,4 @@ This website is created with HTML and CSS. There are 6 sections available in thi
 
 ## Available Links
 
-[Visit Website](https://mustaquenadim.github.io/ph_assignment-1_portfolio-website/) | [Watch Code](https://github.com/mustaquenadim/ph_assignment-1_portfolio-website)
+[Visit Website](https://mustaquenadim.github.io/ph_assignment-1_personal-website/) | [Watch Code](https://github.com/mustaquenadim/ph_assignment-1_personal-website)
