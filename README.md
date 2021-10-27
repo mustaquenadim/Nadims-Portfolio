@@ -25,4 +25,4 @@ Contact
 
 ## Available Links
 
-[Visit Website](https://mustaquenadim.github.io/ph_assignment-1_personal-website/) | [Watch Code](https://github.com/mustaquenadim/ph_assignment-1_personal-website)
+[Visit Website](https://mustaquenadim.github.io/personal-website/) | [Watch Code](https://github.com/mustaquenadim/personal-website)
