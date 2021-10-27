@@ -9,15 +9,16 @@ This is a sample personal website using HTML and CSS.
 ## Description
 
 This website is created with HTML and CSS. There are 6 sections available in this website. These sections are 
+```
+Home
+About
+Skills
+Work
+Portfolio
+Testimonial
+Contact
+```
 
-    Home
-    About
-    Skills
-    Work
-    Portfolio
-    Testimonial
-    Contact
-    
 ## Technologies
 
 `HTML` `CSS`
