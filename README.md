@@ -4,7 +4,7 @@
 
 This is a sample personal website using HTML and CSS.
 
-![Screenshot](https://user-images.githubusercontent.com/56265819/139056831-e569643d-ec7a-46d0-8a0c-282493fa658f.png)
+![Screenshot](https://user-images.githubusercontent.com/56265819/139071973-9ae30786-be6b-4b9d-a484-a2ec05621dd8.png)
 
 ## Description
 
